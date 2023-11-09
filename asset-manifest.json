@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/alll/static/css/main.d1c22ad7.css",
+    "main.js": "/alll/static/js/main.c0ce1b7b.js",
+    "static/media/profil1.png": "/alll/static/media/profil1.e1eb5b7894ee49913ed4.png",
+    "index.html": "/alll/index.html",
+    "main.d1c22ad7.css.map": "/alll/static/css/main.d1c22ad7.css.map",
+    "main.c0ce1b7b.js.map": "/alll/static/js/main.c0ce1b7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1c22ad7.css",
+    "static/js/main.c0ce1b7b.js"
+  ]
+}
