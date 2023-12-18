@@ -21,7 +21,7 @@ function index() {
           <p class="hero-skills">
             <Type />
           </p>
-          <a href="/alll/about" class="hero-btn">
+          <a href="https://bilalll7.github.io/about/" class="hero-btn">
             About Me
             <FaArrowRight />
           </a>
